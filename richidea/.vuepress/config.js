@@ -2,6 +2,8 @@ module.exports = {
   title: "木棉花开",
   description: 'This is a easy blog to share everyone',
   dest: 'public',
+  //base: "/",
+  base: "./",
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
