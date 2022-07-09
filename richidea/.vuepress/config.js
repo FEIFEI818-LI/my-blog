@@ -16,7 +16,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '首页', link: '/', icon: 'reco-home' },
-      { text: '百宝箱', link: '/good', icon:'reco-message'},
+      { text: '百宝箱', link: '/good/', icon:'reco-message'},
       { text: '动态', link: '/timeline/', icon: 'reco-date' },
       { text: '教程', 
         icon: 'reco-message',
