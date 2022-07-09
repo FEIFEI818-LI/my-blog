@@ -1,9 +1,9 @@
 ---
-title: good
+title: 百宝箱
 date: 2022-7-6
 sidebar: auto
-tags:
- - 好东西
+categories:
+ - 百宝箱
 ---
 
 测试
